@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352062702857",
+    "firebase_url": "https://smarthome-f13.firebaseio.com",
+    "project_id": "smarthome-f13",
+    "storage_bucket": "smarthome-f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352062702857:android:f69621eb2b8d3f309c3fd8",
+        "android_client_info": {
+          "package_name": "com.smarthome.smart_switch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352062702857-4km4uvdsn8dri44un7damm28p67afe1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarthome.smart_switch",
+            "certificate_hash": "3d852b770e0003b087f9dbcd201ff58235a3a602"
+          }
+        },
+        {
+          "client_id": "352062702857-9mg2piflkjvpdslkjj009m0n7avrufqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvA2cUcEQTaCaZcqzRdsIbWTNxmAcm7zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352062702857-9mg2piflkjvpdslkjj009m0n7avrufqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
